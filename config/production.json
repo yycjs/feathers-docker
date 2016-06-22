@@ -1,0 +1,6 @@
+{
+  "host": "yycjs-app.feathersjs.com",
+  "port": 8080,
+  "mongodb": "MONGO_PORT_27017_TCP",
+  "public": "../public/"
+}
